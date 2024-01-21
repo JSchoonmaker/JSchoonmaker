@@ -3,9 +3,9 @@
 <!--
 **JSchoonmaker/JSchoonmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on data science on blockchain data. See my reports on it here: https://jeanna-schoonmaker.medium.com/
-- 🌱 I’m learning more about machine learning for retail, fraud detection, and MLOps.
-- 💬 Ask me about the work I do with an amazing team of volunteer data scientists at Social Impact Analytics Institute! www.siainstitute.org
+- 🔭 Though it's been a minute since I've published anything new, you can see my writing at https://jeanna-schoonmaker.medium.com/
+- 🌱 I’m learning more about MLOps, Generative AI solutions in an enterprise setting, and ML for B2B use cases.
+- 💬 Ask me about the work I do with the staffing firm Insight Global and the fantastic Data, Insights, and Analytics team there! 
 - 📫 Reach me at www.linkedin.com/in/jeanna-schoonmaker/
 - 🌳 I'm a woodworker.
 - 👍 Be Excellent to Each Other
